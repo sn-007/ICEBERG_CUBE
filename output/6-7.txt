@@ -1,0 +1,86 @@
+nan ~ Republic of Korea 372
+nan ~ Puerto Rico 372
+nan ~ Russian Federation 324
+nan ~ Turkmenistan 288
+nan ~ Antigua and Barbuda 288
+nan ~ Suriname 264
+nan ~ Singapore 264
+nan ~ Australia 264
+nan ~ Netherlands 262
+nan ~ Mauritius 262
+nan ~ Iceland 262
+nan ~ Austria 262
+nan ~ United States 252
+nan ~ United Kingdom 252
+nan ~ Spain 252
+nan ~ Saint Lucia 252
+nan ~ Norway 252
+nan ~ Mexico 252
+nan ~ Malta 252
+nan ~ Luxembourg 252
+nan ~ Japan 252
+nan ~ Italy 252
+nan ~ Israel 252
+nan ~ Guatemala 252
+nan ~ Greece 252
+nan ~ Ecuador 252
+nan ~ Colombia 252
+nan ~ Chile 252
+nan ~ Brazil 252
+nan ~ Belgium 252
+nan ~ Argentina 252
+nan ~ Sweden 250
+nan ~ Grenada 250
+nan ~ Ukraine 240
+nan ~ Trinidad and Tobago 240
+nan ~ New Zealand 240
+nan ~ Ireland 240
+nan ~ France 240
+nan ~ Finland 240
+nan ~ Costa Rica 240
+nan ~ Canada 240
+nan ~ Bulgaria 240
+nan ~ Uruguay 228
+nan ~ Belize 228
+nan ~ Romania 226
+nan ~ Saint Vincent and Grenadines 216
+nan ~ Portugal 216
+nan ~ Guyana 216
+nan ~ Albania 216
+nan ~ Thailand 214
+nan ~ Hungary 214
+nan ~ Czech Republic 214
+nan ~ Paraguay 204
+nan ~ Panama 204
+nan ~ Kyrgyzstan 204
+nan ~ Kazakhstan 204
+nan ~ Germany 204
+nan ~ Bahamas 204
+nan ~ Armenia 202
+nan ~ Kuwait 192
+nan ~ Cuba 192
+nan ~ Belarus 192
+nan ~ Barbados 192
+nan ~ Uzbekistan 180
+nan ~ Slovakia 180
+nan ~ Poland 180
+nan ~ Georgia 180
+nan ~ El Salvador 180
+nan ~ Denmark 168
+nan ~ Azerbaijan 168
+nan ~ Aruba 168
+nan ~ Lithuania 166
+nan ~ Croatia 166
+nan ~ Switzerland 156
+nan ~ South Africa 156
+nan ~ Slovenia 156
+nan ~ Latvia 156
+nan ~ Estonia 156
+nan ~ Bahrain 156
+nan ~ Seychelles 144
+nan ~ Philippines 144
+nan ~ Serbia 132
+nan ~ Kiribati 132
+nan ~ Jamaica 132
+nan ~ Sri Lanka 108
+nan ~ Montenegro 108

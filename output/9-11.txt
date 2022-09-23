@@ -1,0 +1,32 @@
+Generation X ~ 25-34 years ~ male 1341
+Generation X ~ 25-34 years ~ female 1341
+Generation X ~ 15-24 years ~ male 1057
+Generation X ~ 15-24 years ~ female 1057
+Generation X ~ 35-54 years ~ male 491
+Generation X ~ 35-54 years ~ female 491
+Generation X ~ 5-14 years ~ male 315
+Generation X ~ 5-14 years ~ female 315
+Silent ~ 55-74 years ~ male 1603
+Silent ~ 55-74 years ~ female 1603
+Silent ~ 75+ years ~ male 1264
+Silent ~ 75+ years ~ female 1264
+Silent ~ 35-54 years ~ male 315
+Silent ~ 35-54 years ~ female 315
+Millenials ~ 15-24 years ~ male 1264
+Millenials ~ 15-24 years ~ female 1264
+Millenials ~ 5-14 years ~ male 1255
+Millenials ~ 5-14 years ~ female 1255
+Millenials ~ 25-34 years ~ male 403
+Millenials ~ 25-34 years ~ female 403
+Boomers ~ 35-54 years ~ male 1515
+Boomers ~ 35-54 years ~ female 1515
+Boomers ~ 25-34 years ~ male 577
+Boomers ~ 25-34 years ~ female 577
+Boomers ~ 55-74 years ~ male 403
+Boomers ~ 55-74 years ~ female 403
+G.I. Generation ~ 75+ years ~ male 1057
+G.I. Generation ~ 75+ years ~ female 1057
+G.I. Generation ~ 55-74 years ~ male 315
+G.I. Generation ~ 55-74 years ~ female 315
+Generation Z ~ 5-14 years ~ male 735
+Generation Z ~ 5-14 years ~ female 735
