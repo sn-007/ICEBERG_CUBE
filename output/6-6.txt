@@ -1,1 +1,97 @@
-nan 19456
+Netherlands 382
+Mauritius 382
+Iceland 382
+Austria 382
+United States 372
+United Kingdom 372
+Spain 372
+Singapore 372
+Republic of Korea 372
+Puerto Rico 372
+Mexico 372
+Malta 372
+Luxembourg 372
+Japan 372
+Italy 372
+Israel 372
+Greece 372
+Ecuador 372
+Colombia 372
+Chile 372
+Brazil 372
+Belgium 372
+Argentina 372
+Norway 360
+Ireland 360
+Guatemala 360
+France 360
+Costa Rica 360
+Bulgaria 360
+Australia 360
+Sweden 358
+Turkmenistan 348
+New Zealand 348
+Finland 348
+Canada 348
+Uruguay 336
+Ukraine 336
+Suriname 336
+Saint Lucia 336
+Belize 336
+Thailand 334
+Romania 334
+Trinidad and Tobago 324
+Russian Federation 324
+Portugal 324
+Paraguay 324
+Antigua and Barbuda 324
+Czech Republic 322
+Kyrgyzstan 312
+Kazakhstan 312
+Germany 312
+Hungary 310
+Grenada 310
+Saint Vincent and Grenadines 300
+Panama 300
+Kuwait 300
+Guyana 300
+Barbados 300
+Armenia 298
+Poland 288
+El Salvador 288
+Cuba 288
+Bahamas 276
+Uzbekistan 264
+Slovakia 264
+Georgia 264
+Denmark 264
+Albania 264
+Lithuania 262
+Croatia 262
+Switzerland 252
+Slovenia 252
+Latvia 252
+Estonia 252
+Belarus 252
+Bahrain 252
+South Africa 240
+Seychelles 216
+Serbia 216
+Jamaica 204
+Azerbaijan 192
+Philippines 180
+Qatar 178
+Cyprus 178
+Aruba 168
+Sri Lanka 132
+Kiribati 132
+Fiji 132
+Montenegro 120
+Maldives 120
+Turkey 84
+United Arab Emirates 72
+Nicaragua 72
+San Marino 36
+Saint Kitts and Nevis 36
+Oman 36
+Bosnia and Herzegovina 24

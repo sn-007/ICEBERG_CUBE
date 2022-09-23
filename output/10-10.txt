@@ -1,6 +1,2 @@
-75+ years 4642
-55-74 years 4642
-35-54 years 4642
-25-34 years 4642
-15-24 years 4642
-5-14 years 4610
+male 13910
+female 13910

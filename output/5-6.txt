@@ -1,25 +1,124 @@
-0 ~ nan 3124
-1 ~ nan 1081
-2 ~ nan 778
-3 ~ nan 624
-4 ~ nan 478
-5 ~ nan 367
-6 ~ nan 329
-7 ~ nan 293
-8 ~ nan 236
-9 ~ nan 241
-10 ~ nan 199
-11 ~ nan 182
-12 ~ nan 162
-18 ~ nan 162
-14 ~ nan 168
-13 ~ nan 162
-15 ~ nan 165
-16 ~ nan 161
-20 ~ nan 148
-21 ~ nan 145
-17 ~ nan 143
-19 ~ nan 122
-23 ~ nan 111
-22 ~ nan 120
-25 ~ nan 101
+0 ~ Antigua and Barbuda 314
+0 ~ Grenada 280
+0 ~ Saint Vincent and Grenadines 228
+0 ~ Barbados 220
+0 ~ Bahamas 211
+0 ~ Saint Lucia 209
+0 ~ Belize 197
+0 ~ Malta 182
+0 ~ Seychelles 156
+0 ~ Bahrain 146
+0 ~ Jamaica 142
+0 ~ Kuwait 131
+0 ~ Iceland 118
+0 ~ Aruba 116
+0 ~ Maldives 103
+0 ~ Kiribati 98
+0 ~ Qatar 96
+0 ~ Cyprus 80
+0 ~ Montenegro 78
+0 ~ Luxembourg 74
+0 ~ Albania 58
+0 ~ Mauritius 56
+0 ~ Armenia 46
+0 ~ Suriname 45
+0 ~ Greece 41
+0 ~ Slovakia 40
+0 ~ Fiji 39
+0 ~ Guyana 38
+0 ~ Saint Kitts and Nevis 36
+0 ~ Puerto Rico 35
+0 ~ Trinidad and Tobago 34
+0 ~ Panama 33
+0 ~ Costa Rica 33
+0 ~ San Marino 32
+0 ~ Georgia 30
+0 ~ Azerbaijan 27
+0 ~ United Arab Emirates 25
+0 ~ Oman 25
+0 ~ Guatemala 25
+0 ~ Paraguay 24
+0 ~ Ireland 24
+0 ~ Slovenia 21
+0 ~ Singapore 20
+0 ~ Israel 20
+0 ~ Estonia 20
+0 ~ Denmark 20
+1 ~ Saint Lucia 63
+1 ~ Belize 63
+1 ~ Malta 61
+1 ~ Iceland 59
+1 ~ Suriname 56
+1 ~ Bahamas 46
+1 ~ Saint Vincent and Grenadines 42
+1 ~ Mauritius 41
+1 ~ Luxembourg 41
+1 ~ Seychelles 37
+1 ~ Jamaica 36
+1 ~ Barbados 36
+1 ~ Armenia 36
+1 ~ Puerto Rico 35
+1 ~ Panama 35
+1 ~ Guyana 34
+1 ~ Trinidad and Tobago 33
+1 ~ Bahrain 33
+1 ~ Costa Rica 31
+1 ~ Kuwait 29
+1 ~ Fiji 26
+1 ~ Albania 25
+1 ~ Georgia 24
+1 ~ Grenada 23
+1 ~ Aruba 23
+1 ~ Qatar 22
+1 ~ Kiribati 22
+1 ~ Cyprus 21
+2 ~ Iceland 45
+2 ~ Malta 41
+2 ~ Saint Lucia 40
+2 ~ Suriname 36
+2 ~ Luxembourg 31
+2 ~ Guyana 29
+2 ~ Mauritius 28
+2 ~ Kuwait 28
+2 ~ Costa Rica 28
+2 ~ Armenia 28
+2 ~ Turkmenistan 27
+2 ~ Belize 27
+2 ~ Trinidad and Tobago 25
+2 ~ Panama 24
+2 ~ Albania 23
+2 ~ Puerto Rico 22
+2 ~ Ireland 22
+2 ~ Fiji 21
+2 ~ Paraguay 20
+2 ~ Guatemala 20
+3 ~ Luxembourg 39
+3 ~ Malta 32
+3 ~ Mauritius 30
+3 ~ Armenia 28
+3 ~ Suriname 26
+3 ~ Panama 26
+3 ~ Iceland 25
+3 ~ Guyana 24
+3 ~ Guatemala 23
+3 ~ Turkmenistan 21
+3 ~ Azerbaijan 21
+3 ~ Paraguay 20
+3 ~ Cyprus 20
+4 ~ Iceland 33
+4 ~ Luxembourg 29
+4 ~ Malta 25
+4 ~ Panama 22
+4 ~ Guyana 22
+4 ~ Armenia 21
+4 ~ Trinidad and Tobago 20
+4 ~ Suriname 20
+5 ~ Iceland 24
+5 ~ Trinidad and Tobago 23
+5 ~ Luxembourg 23
+5 ~ Costa Rica 23
+5 ~ Suriname 21
+6 ~ Iceland 24
+6 ~ Armenia 22
+6 ~ Luxembourg 21
+7 ~ Paraguay 23

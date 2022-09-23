@@ -1,6 +1,6 @@
-Generation X 6408
-Silent 6364
-Millenials 5844
-Boomers 4990
-G.I. Generation 2744
-Generation Z 1470
+75+ years 4642
+55-74 years 4642
+35-54 years 4642
+25-34 years 4642
+15-24 years 4642
+5-14 years 4610

@@ -1,0 +1,191 @@
+2009 ~ Silent ~ 75+ years 178
+2009 ~ Silent ~ 55-74 years 178
+2009 ~ Millenials ~ 15-24 years 178
+2009 ~ Generation Z ~ 5-14 years 178
+2009 ~ Generation X ~ 25-34 years 178
+2009 ~ Boomers ~ 35-54 years 178
+2010 ~ Silent ~ 75+ years 176
+2010 ~ Silent ~ 55-74 years 176
+2010 ~ Generation X ~ 35-54 years 176
+2010 ~ Generation X ~ 25-34 years 176
+2010 ~ Millenials ~ 15-24 years 176
+2010 ~ Generation Z ~ 5-14 years 176
+2001 ~ Silent ~ 75+ years 176
+2001 ~ Silent ~ 55-74 years 176
+2001 ~ Millenials ~ 5-14 years 176
+2001 ~ Millenials ~ 15-24 years 176
+2001 ~ Generation X ~ 25-34 years 176
+2001 ~ Boomers ~ 35-54 years 176
+2011 ~ Millenials ~ 25-34 years 172
+2011 ~ Millenials ~ 15-24 years 172
+2011 ~ Silent ~ 75+ years 172
+2011 ~ Generation Z ~ 5-14 years 172
+2011 ~ Generation X ~ 35-54 years 172
+2011 ~ Boomers ~ 55-74 years 172
+2007 ~ Silent ~ 75+ years 172
+2007 ~ Silent ~ 55-74 years 172
+2007 ~ Millenials ~ 15-24 years 172
+2007 ~ Generation Z ~ 5-14 years 172
+2007 ~ Generation X ~ 25-34 years 172
+2007 ~ Boomers ~ 35-54 years 172
+2003 ~ Silent ~ 75+ years 172
+2003 ~ Silent ~ 55-74 years 172
+2003 ~ Millenials ~ 5-14 years 172
+2003 ~ Millenials ~ 15-24 years 172
+2003 ~ Generation X ~ 25-34 years 172
+2003 ~ Boomers ~ 35-54 years 172
+2002 ~ Silent ~ 75+ years 172
+2002 ~ Silent ~ 55-74 years 172
+2002 ~ Millenials ~ 5-14 years 172
+2002 ~ Millenials ~ 15-24 years 172
+2002 ~ Generation X ~ 25-34 years 172
+2002 ~ Boomers ~ 35-54 years 172
+2000 ~ Generation X ~ 25-34 years 172
+2000 ~ Generation X ~ 15-24 years 172
+2000 ~ Silent ~ 55-74 years 172
+2000 ~ Millenials ~ 5-14 years 172
+2000 ~ G.I. Generation ~ 75+ years 172
+2000 ~ Boomers ~ 35-54 years 172
+2008 ~ Silent ~ 75+ years 170
+2008 ~ Silent ~ 55-74 years 170
+2008 ~ Millenials ~ 15-24 years 170
+2008 ~ Generation Z ~ 5-14 years 170
+2008 ~ Generation X ~ 25-34 years 170
+2008 ~ Boomers ~ 35-54 years 170
+2006 ~ Silent ~ 75+ years 170
+2006 ~ Silent ~ 55-74 years 170
+2006 ~ Millenials ~ 5-14 years 170
+2006 ~ Millenials ~ 15-24 years 170
+2006 ~ Generation X ~ 25-34 years 170
+2006 ~ Boomers ~ 35-54 years 170
+2005 ~ Silent ~ 75+ years 168
+2005 ~ Silent ~ 55-74 years 168
+2005 ~ Millenials ~ 5-14 years 168
+2005 ~ Millenials ~ 15-24 years 168
+2005 ~ Generation X ~ 25-34 years 168
+2005 ~ Boomers ~ 35-54 years 168
+2004 ~ Silent ~ 75+ years 168
+2004 ~ Silent ~ 55-74 years 168
+2004 ~ Millenials ~ 5-14 years 168
+2004 ~ Millenials ~ 15-24 years 168
+2004 ~ Generation X ~ 25-34 years 168
+2004 ~ Boomers ~ 35-54 years 168
+1999 ~ Generation X ~ 25-34 years 166
+1999 ~ Generation X ~ 15-24 years 166
+1999 ~ Silent ~ 55-74 years 166
+1999 ~ Millenials ~ 5-14 years 166
+1999 ~ G.I. Generation ~ 75+ years 166
+1999 ~ Boomers ~ 35-54 years 166
+2012 ~ Millenials ~ 25-34 years 162
+2012 ~ Millenials ~ 15-24 years 162
+2012 ~ Silent ~ 75+ years 162
+2012 ~ Generation Z ~ 5-14 years 162
+2012 ~ Generation X ~ 35-54 years 162
+2012 ~ Boomers ~ 55-74 years 162
+2013 ~ Millenials ~ 25-34 years 160
+2013 ~ Millenials ~ 15-24 years 160
+2013 ~ Silent ~ 75+ years 160
+2013 ~ Generation Z ~ 5-14 years 160
+2013 ~ Generation X ~ 35-54 years 160
+2013 ~ Boomers ~ 55-74 years 160
+1998 ~ Generation X ~ 25-34 years 158
+1998 ~ Generation X ~ 15-24 years 158
+1998 ~ Silent ~ 55-74 years 158
+1998 ~ Millenials ~ 5-14 years 158
+1998 ~ G.I. Generation ~ 75+ years 158
+1998 ~ Boomers ~ 35-54 years 158
+2014 ~ Millenials ~ 25-34 years 156
+2014 ~ Millenials ~ 15-24 years 156
+2014 ~ Silent ~ 75+ years 156
+2014 ~ Generation Z ~ 5-14 years 156
+2014 ~ Generation X ~ 35-54 years 156
+2014 ~ Boomers ~ 55-74 years 156
+1995 ~ Generation X ~ 25-34 years 156
+1995 ~ Generation X ~ 15-24 years 156
+1995 ~ Silent ~ 55-74 years 156
+1995 ~ Millenials ~ 5-14 years 156
+1995 ~ G.I. Generation ~ 75+ years 156
+1995 ~ Boomers ~ 35-54 years 156
+1997 ~ Generation X ~ 25-34 years 154
+1997 ~ Generation X ~ 15-24 years 154
+1997 ~ Silent ~ 55-74 years 154
+1997 ~ Millenials ~ 5-14 years 154
+1997 ~ G.I. Generation ~ 75+ years 154
+1997 ~ Boomers ~ 35-54 years 154
+1996 ~ Generation X ~ 25-34 years 154
+1996 ~ Generation X ~ 15-24 years 154
+1996 ~ Silent ~ 55-74 years 154
+1996 ~ Millenials ~ 5-14 years 154
+1996 ~ G.I. Generation ~ 75+ years 154
+1996 ~ Boomers ~ 35-54 years 154
+1994 ~ Boomers ~ 35-54 years 136
+1994 ~ Boomers ~ 25-34 years 136
+1994 ~ Silent ~ 55-74 years 136
+1994 ~ Millenials ~ 5-14 years 136
+1994 ~ Generation X ~ 15-24 years 136
+1994 ~ G.I. Generation ~ 75+ years 136
+1993 ~ Boomers ~ 35-54 years 130
+1993 ~ Boomers ~ 25-34 years 130
+1993 ~ Silent ~ 55-74 years 130
+1993 ~ Millenials ~ 5-14 years 130
+1993 ~ Generation X ~ 15-24 years 130
+1993 ~ G.I. Generation ~ 75+ years 130
+1992 ~ Boomers ~ 35-54 years 130
+1992 ~ Boomers ~ 25-34 years 130
+1992 ~ Silent ~ 55-74 years 130
+1992 ~ Millenials ~ 5-14 years 130
+1992 ~ Generation X ~ 15-24 years 130
+1992 ~ G.I. Generation ~ 75+ years 130
+1991 ~ Boomers ~ 35-54 years 128
+1991 ~ Boomers ~ 25-34 years 128
+1991 ~ Silent ~ 55-74 years 128
+1991 ~ Millenials ~ 5-14 years 128
+1991 ~ Generation X ~ 15-24 years 128
+1991 ~ G.I. Generation ~ 75+ years 128
+1990 ~ Generation X ~ 5-14 years 128
+1990 ~ Generation X ~ 15-24 years 128
+1990 ~ G.I. Generation ~ 75+ years 128
+1990 ~ G.I. Generation ~ 55-74 years 128
+1990 ~ Silent ~ 35-54 years 128
+1990 ~ Boomers ~ 25-34 years 128
+2015 ~ Millenials ~ 25-34 years 124
+2015 ~ Millenials ~ 15-24 years 124
+2015 ~ Silent ~ 75+ years 124
+2015 ~ Generation Z ~ 5-14 years 124
+2015 ~ Generation X ~ 35-54 years 124
+2015 ~ Boomers ~ 55-74 years 124
+1987 ~ Generation X ~ 5-14 years 108
+1987 ~ Generation X ~ 15-24 years 108
+1987 ~ G.I. Generation ~ 75+ years 108
+1987 ~ G.I. Generation ~ 55-74 years 108
+1987 ~ Silent ~ 35-54 years 108
+1987 ~ Boomers ~ 25-34 years 108
+1989 ~ Generation X ~ 5-14 years 104
+1989 ~ Generation X ~ 15-24 years 104
+1989 ~ G.I. Generation ~ 75+ years 104
+1989 ~ G.I. Generation ~ 55-74 years 104
+1989 ~ Silent ~ 35-54 years 104
+1989 ~ Boomers ~ 25-34 years 104
+1988 ~ Generation X ~ 5-14 years 98
+1988 ~ Generation X ~ 15-24 years 98
+1988 ~ G.I. Generation ~ 75+ years 98
+1988 ~ G.I. Generation ~ 55-74 years 98
+1988 ~ Silent ~ 35-54 years 98
+1988 ~ Boomers ~ 25-34 years 98
+1986 ~ Generation X ~ 5-14 years 96
+1986 ~ Generation X ~ 15-24 years 96
+1986 ~ G.I. Generation ~ 75+ years 96
+1986 ~ G.I. Generation ~ 55-74 years 96
+1986 ~ Silent ~ 35-54 years 96
+1986 ~ Boomers ~ 25-34 years 96
+1985 ~ Generation X ~ 5-14 years 96
+1985 ~ Generation X ~ 15-24 years 96
+1985 ~ G.I. Generation ~ 75+ years 96
+1985 ~ G.I. Generation ~ 55-74 years 96
+1985 ~ Silent ~ 35-54 years 96
+1985 ~ Boomers ~ 25-34 years 96
+2016 ~ Millenials ~ 25-34 years 32
+2016 ~ Millenials ~ 15-24 years 32
+2016 ~ Silent ~ 75+ years 32
+2016 ~ Generation X ~ 35-54 years 32
+2016 ~ Boomers ~ 55-74 years 32
